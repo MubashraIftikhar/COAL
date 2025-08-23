@@ -9,4 +9,21 @@
  - [Read Letters & Display in Alphabetical Order]()
  - [Copy contents of memory in Reverse Order](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/copy_debugger.docx) -<<debugger>debugger>
  - [Swap content of 8byte array](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/swap_debugger.docx) -<<debugger>debugger>
- ## Arithmetic
+ ## Counting
+ - [Display Counting from 0-to-input]()
+ - [Vowel Count in Sentence]()
+ - [Number of 1s in ASCII code]()
+ ## Arithmetic Operations
+ - [Sum/Difference of two Digits]()
+ - [Binary Addition]()
+ ## Conditional Operation
+   - [InOrder Numbers Check]()
+   - [Check if Sum>9]()
+ ## Number System Conversion
+ - [ASCII code in Binary]()
+ - [ASCII code in HEX]()
+ - [HEX into Binary]()
+ - [Binary into HEX]()
+ ## String Operations/Data Manipulation
+ - [Reverse String]()
+ - [Reverse Words In a String]() -<<debugger>In Place>
