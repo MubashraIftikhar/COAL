@@ -5,14 +5,14 @@
  - [Display a Character](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/Input_Character.asm)
  - [Read a Character & Display it](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/Output_Character.asm)
  - [Display a String](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/Output_String.asm)
- - [Toggle Alphabet's Case]()
- - [Read Letters & Display in Alphabetical Order]()
+ - [Toggle Alphabet's Case](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/Toggle%20Alphabet's%20Case.asm)
+ - [Read Letters & Display in Alphabetical Order](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/Alphabetical%20order.asm)
  - [Copy contents of memory in Reverse Order](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/copy_debugger.docx) -<<debugger>debugger>
  - [Swap content of 8byte array](https://github.com/MubashraIftikhar/COAL/blob/main/Basic%20Operations/swap_debugger.docx) -<<debugger>debugger>
  ## Counting
- - [Display Counting from 0-to-input]()
- - [Vowel Count in Sentence]()
- - [Number of 1s in ASCII code]()
+ - [Display Counting from 0-to-input](https://github.com/MubashraIftikhar/COAL/blob/main/Counting/Counting.asm)
+ - [Vowel Count in Sentence](https://github.com/MubashraIftikhar/COAL/blob/main/Counting/Vowel%20Count.asm)
+ - [Number of 1s in ASCII code](https://github.com/MubashraIftikhar/COAL/blob/main/Counting/ASCII%20to%20Binary.asm)
  ## Arithmetic Operations
  - [Sum/Difference of two Digits]()
  - [Binary Addition]()
