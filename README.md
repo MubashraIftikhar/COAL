@@ -14,8 +14,8 @@
  - [Vowel Count in Sentence](https://github.com/MubashraIftikhar/COAL/blob/main/Counting/Vowel%20Count.asm)
  - [Number of 1s in ASCII code](https://github.com/MubashraIftikhar/COAL/blob/main/Counting/ASCII%20to%20Binary.asm)
  ## Arithmetic Operations
- - [Sum/Difference of two Digits]()
- - [Binary Addition]()
+ - [Sum/Difference of two Digits](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Sum-Difference.asm)
+ - [Binary Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Binary%20Addition.asm)
  ## Conditional Operation
    - [InOrder Numbers Check]()
    - [Check if Sum>9]()
