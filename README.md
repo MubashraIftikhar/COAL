@@ -17,13 +17,13 @@
  - [Sum/Difference of two Digits](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Sum-Difference.asm)
  - [Binary Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Binary%20Addition.asm)
  ## Conditional Operation
-   - [InOrder Numbers Check]()
-   - [Check if Sum>9]()
+   - [InOrder Numbers Check](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/InOrder%20Numbers.asm)
+   - [Check if Sum>9](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/Check%20Sum.asm)
  ## Number System Conversion
- - [ASCII code in Binary]()
- - [ASCII code in HEX]()
- - [HEX into Binary]()
- - [Binary into HEX]()
+ - [ASCII code in Binary](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/ASCII%20to%20Binary.asm)
+ - [ASCII code in HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/ASCII%20into%20HEX.asm)
+ - [HEX into Binary](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/HEX%20to%20Binary.asm)
+ - [Binary into HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/Binary%20to%20HEX.asm)
  ## String Operations/Data Manipulation
  - [Reverse String]()
  - [Reverse Words In a String]() -<<debugger>In Place>
