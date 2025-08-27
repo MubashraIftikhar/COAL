@@ -25,5 +25,5 @@
  - [HEX into Binary](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/HEX%20to%20Binary.asm)
  - [Binary into HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/Binary%20to%20HEX.asm)
  ## String Operations/Data Manipulation
- - [Reverse String]()
- - [Reverse Words In a String]() -<<debugger>In Place>
+ - [Reverse String](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/reverse%20String.asm)
+ - [Reverse Words In a String](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Reverse%20Word.asm) -<<debugger>In Place>
