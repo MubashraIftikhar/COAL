@@ -17,9 +17,12 @@
  - [Sum/Difference of two Digits](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Sum-Difference.asm)
  - [Binary Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Binary%20Addition.asm)
  - [Hexadecimal Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/hsum.txt)
+ - [DMAS Calculator]()
+ - [Find LCM]()
  ## Conditional Operation
    - [InOrder Numbers Check](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/InOrder%20Numbers.asm)
    - [Check if Sum>9](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/Check%20Sum.asm)
+   - [Detect Prime Numbers]()
  ## Number System Conversion
  - [ASCII code in Binary](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/ASCII%20to%20Binary.asm)
  - [ASCII code in HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/ASCII%20into%20HEX.asm)
@@ -32,3 +35,6 @@
  - [Palindrome](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Palindrome.asm)
  - [Expression_Bracket_Checker](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Check_Brackets.asm)
  - [Duplicate Removal](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/remove%20Duplicates.asm)
+ - [Reverse Digits Using multiplication & Division]()
+
+ ## Procedures
