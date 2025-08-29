@@ -25,10 +25,10 @@
  - [ASCII code in HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/ASCII%20into%20HEX.asm)
  - [HEX into Binary](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/HEX%20to%20Binary.asm)
  - [Binary into HEX](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/Binary%20to%20HEX.asm)
- - [BinaryInput<8-bit 5-BinaryNumbers> to Hexadecimal](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/Binary%20to%20HEX.asm)
+ - [BinaryInput<8-bit 5-BinaryNumbers> to Hexadecimal](https://github.com/MubashraIftikhar/COAL/blob/main/Number%20System/BinaryInput%20to%20HexadecimalOutput.asm)
  ## String Operations/Data Manipulation
  - [Reverse String](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/reverse%20String.asm)
  - [Reverse Words In a String](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Reverse%20Word.asm) -<<debugger>In Place>
- - [Palindrome]()
- - [Expression_Bracket_Checker]()
- - [Duplicate Removal]()
+ - [Palindrome](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Palindrome.asm)
+ - [Expression_Bracket_Checker](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/Check_Brackets.asm)
+ - [Duplicate Removal](https://github.com/MubashraIftikhar/COAL/blob/main/Data%20Manipulation/remove%20Duplicates.asm)
