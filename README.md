@@ -18,7 +18,7 @@
  - [Binary Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/Binary%20Addition.asm)
  - [Hexadecimal Addition](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/hsum.txt)
  - [DMAS Calculator]()
- - [Find LCM]()
+ - [Find LCM](https://github.com/MubashraIftikhar/COAL/blob/main/Arithmetic%20Operation/LCM.asm)
  ## Conditional Operation
    - [InOrder Numbers Check](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/InOrder%20Numbers.asm)
    - [Check if Sum>9](https://github.com/MubashraIftikhar/COAL/blob/main/Conditional%20Operations/Check%20Sum.asm)
